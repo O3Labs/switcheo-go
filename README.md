@@ -8,7 +8,7 @@ switcheo-go is a go client library for Switcheo APIs
 go get github.com/o3labs/switcheo-go
 ```
 
-For details on all the functionality in this library, see the [GoDoc](http://godoc.org/github.com/o3labs/switcheo-go) documentation.
+For details on all the functionality in this library, see the [GoDoc](https://godoc.org/github.com/O3Labs/switcheo-go/switcheo) documentation.
 
 
 ### Example usage
